@@ -1,0 +1,20 @@
+button {
+    background-image: linear-gradient(to right, #ee0979, #ff6a00);
+    transition: 0.5s;
+    box-shadow: 0 0 20px #eee;
+    border-radius: 25px / 21px;
+    width: 150px;
+    height: 45px;
+    border: none;
+}
+
+button:hover {
+    background-position: right center;
+    /* change the direction of the change here */
+    color: #fff;
+    text-decoration: none;
+}
+
+a {
+    color: black;
+}
